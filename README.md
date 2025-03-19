@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabeena0
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on google
 - 📫  reach me on parveensabeena56@gmail.com
 
